@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reservoiracademicclasses.org.ico",
     "slug": "rac",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.81%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 2343,
     "timeDay": 7485,
     "timeWeek": 3703,
     "timeMonth": 2343,
     "timeYear": 2343,
     "dailyMinutesDown": {
-      "2024-05-14": 0,
+      "2024-05-14": 31,
       "2024-04-18": 37
     }
   }
